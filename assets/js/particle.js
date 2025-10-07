@@ -6,7 +6,7 @@
         },
         particles: {
             number: {
-                value: 50,
+                value: 80,
                 density: { enable: true, value_area: 800 },
             },
             color: { value: ["#83009D", "#00BD9D"] },
@@ -21,7 +21,7 @@
             },
             move: {
                 enable: true,
-                speed: 1.2,
+                speed: 3.5,
                 direction: "none",
                 outModes: { default: "out" },
             },
